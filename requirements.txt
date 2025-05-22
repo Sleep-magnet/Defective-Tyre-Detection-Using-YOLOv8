@@ -8,3 +8,5 @@ pyyaml
 ipython
 tqdm
 scipy
+pandas
+streamlit 
