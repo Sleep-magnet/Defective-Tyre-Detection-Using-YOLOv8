@@ -28,3 +28,5 @@ The goal of this project is to overcome the limitations of traditional sensor-ba
 - Labeled dataset from Roboflow in YOLO format
 - Classes: `['Bulge', 'Cracks', 'Flat spots', 'Non-defective']`
 - Folder structure:
+
+Link: https://defective-tyre-detection.onrender.com/
