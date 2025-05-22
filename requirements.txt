@@ -1,12 +1,11 @@
+streamlit==1.25.0
+torch==2.0.1
 ultralytics
 opencv-python
 matplotlib
 numpy
 pillow
-torch
 pyyaml
-ipython
 tqdm
 scipy
 pandas
-streamlit 
