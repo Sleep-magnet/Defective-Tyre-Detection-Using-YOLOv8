@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+matplotlib
+numpy
+pillow
+torch
+pyyaml
+ipython
+tqdm
+scipy
