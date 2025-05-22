@@ -1,3 +1,6 @@
+import os
+os.environ["STREAMLIT_DISABLE_WATCHDOG_WARN"] = "1"
+os.environ["PYTHONASYNCIODEBUG"] = "1"
 import streamlit as st
 from ultralytics import YOLO
 from PIL import Image
